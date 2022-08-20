@@ -1,4 +1,4 @@
-# Welome to Timbers.jp Handbook
+# Welome to Timbers Handbook
 
 ティンバーズでは、「経営をオープンソースにする」という文化にもとづき、
 
