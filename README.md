@@ -1,6 +1,6 @@
 # ティンバーズ 公式ハンドブック
 
-閲覧用ページは[こちら](https://about.timbers.jp)
+閲覧用ページは[こちら](https://handbook.timbers.jp)
 編集用ページは[こちら](https://github.com/timbers-jp/handbook)
 
 ## ハンドブックとは？
