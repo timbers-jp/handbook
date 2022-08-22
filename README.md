@@ -7,6 +7,6 @@
 公開すべきでない情報については、[非公開のGoogle Drive](https://drive.google.com/drive/folders/1MSYuoS8Jy3DKdBunYxgdxuuv2d7kHN_L?usp=sharing)等へのリンクが公開されています。
 
 目次
-* [01-handbook](/01-handbook)
-* [02-culture](/02-culture)
-* [90-backoffice](/90-backoffice)
+* [ハンドブック](/01-handbook)
+* [カルチャー](/02-culture)
+* [バックオフィス](/90-backoffice)
