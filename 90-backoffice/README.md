@@ -14,13 +14,3 @@
 ※命名規則　「書類種別_日付_クライアント名」 e.g.「請求書_202208_ティンバーズ様」
 
 <img src=https://user-images.githubusercontent.com/111719338/185885694-c18c18d6-5f40-4e58-9268-b1ca2a717275.jpg width=70%>
-
-
-## 弊社が受け取る領収書の集め方
-
-### オフィス
-
-### Amazon
-
-### Google 
-
