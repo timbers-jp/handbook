@@ -2,7 +2,7 @@
 
 * [月次タスク](月次タスク.md)
 
-領収書や請求書関連は[こちら](https://drive.google.com/drive/u/0/folders/1vqRx_ySXupmwdtV8t9GTXnJP4-og6snd)です。
+領収書や請求書関連のメインフォルダは[こちら](https://drive.google.com/drive/u/0/folders/1vqRx_ySXupmwdtV8t9GTXnJP4-og6snd)です。
 
 ## 弊社から送付する請求書の作り方
 1.[請求書テンプレート内”入力情報”](https://docs.google.com/spreadsheets/d/1N88RqzVR091OX7wffMk71G0ke3fLUHwtltm0ZiqCjsw/edit?usp=sharing)から必要な箇所（黄色枠内）を入力。
