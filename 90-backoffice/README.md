@@ -6,7 +6,7 @@
 
 ## 弊社から送付する請求書の作り方
 
-<img src=(https://user-images.githubusercontent.com/111719338/185885694-c18c18d6-5f40-4e58-9268-b1ca2a717275.jpg) width=200px>
+<img src=(https://user-images.githubusercontent.com/111719338/185885694-c18c18d6-5f40-4e58-9268-b1ca2a717275.jpg) width=50%>
 
 
 ## 弊社が受け取る領収書の集め方
