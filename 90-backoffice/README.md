@@ -9,7 +9,7 @@
 
 2.必要なシート（見積書、請求書、納品書、領収書）をクリックすると自動生成されているため、PDFにて保存。
 
-3.Googleドライブの対象月に保存。
+3.[Googleドライブ](https://drive.google.com/drive/u/0/folders/1vqRx_ySXupmwdtV8t9GTXnJP4-og6snd)の対象月に保存。
 
 ※命名規則　「書類種別_日付_クライアント名」 e.g.「請求書_202208_ティンバーズ様」
 
