@@ -18,6 +18,6 @@
 ハンドブックは、"弊社の信頼できる唯一の情報源"です。
 弊社の業務に関わるすべての情報は、このハンドブックからアクセスすることが可能です。
 
-### Google Meet
+### GoogleMeet
 
 弊社の公式Google Meetは[こちら](meet.google.com/sqg-jiqz-xab)です。
