@@ -21,3 +21,8 @@
 ### Google Meet
 
 弊社の公式Google Meetは[こちら](https://meet.google.com/sqg-jiqz-xab)です。
+
+### Github
+弊社のハンドブックは[こちら](https://handbook.timbers.jp/)で管理します。
+
+プロジェクト管理はGithub Projects[こちら](https://github.com/orgs/timbers-jp/projects/1)で行います。
