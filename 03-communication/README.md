@@ -20,4 +20,4 @@
 
 ### Google Meet
 
-弊社の公式Google Meetは[こちら](meet.google.com/sqg-jiqz-xab)です。
+弊社の公式Google Meetは[こちら](https://meet.google.com/sqg-jiqz-xab)です。
