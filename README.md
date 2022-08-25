@@ -52,7 +52,7 @@ ITでビジネスをシンプルに。
 ## よく使うリンク
 ティンバーズで働かれる方は、ブックマークしておくことをおすすめしておきます。
 
-* [社内プロジェクト管理](https://github.com/orgs/timbers-jp/projects/1)
+* [Github Project](https://github.com/orgs/timbers-jp/projects/1)
 * [Google Meet](https://meet.google.com/sqg-jiqz-xab)
 * [公式ハンドブック](https://handbook.timbers.jp)
 * [公式ハンドブック編集用Github](https://github.com/timbers-jp/handbook)
