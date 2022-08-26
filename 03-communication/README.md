@@ -26,3 +26,6 @@
 弊社のハンドブックはGithub([こちら](https://handbook.timbers.jp/))で管理します。
 
 プロジェクト管理はGithub Projects([こちら](https://github.com/orgs/timbers-jp/projects/1))で行います。
+
+Githubのモバイルアプリを入れましょう。
+コミュニケーションが取りやすくなります。
