@@ -54,8 +54,10 @@ ITでビジネスをシンプルに。
 
 * [Github Project](https://github.com/orgs/timbers-jp/projects/1)
 * [Google Meet](https://meet.google.com/sqg-jiqz-xab)
-* [公式ハンドブック](https://handbook.timbers.jp)
-* [公式ハンドブック編集用Github](https://github.com/timbers-jp/handbook)
+* [公式HP(ハンドブック)](https://handbook.timbers.jp)
+* [Github 公開用](https://github.com/timbers-jp/handbook)
+* [Github 社内用](https://github.com/timbers-jp/internal)
+
 
 
 
