@@ -57,6 +57,7 @@
 * [Github 公開用(ハンドブック編集, 公開issue管理)](https://github.com/timbers-jp/handbook)
 * [Github 社内用(非公開issue管理)](https://github.com/timbers-jp/internal)
 * [Github Project(社内タスク管理)](https://github.com/orgs/timbers-jp/projects/1)
+* [Google Drive](https://drive.google.com/drive/folders/1MSYuoS8Jy3DKdBunYxgdxuuv2d7kHN_L?usp=sharing)
 
 
 
