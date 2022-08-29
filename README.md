@@ -53,10 +53,10 @@
 ティンバーズで働かれる方は、ブックマークしておくことをおすすめしておきます。
 
 * [Google Meet](https://meet.google.com/sqg-jiqz-xab)
-* [公式HP(ハンドブック)](https://handbook.timbers.jp)
-* [Github 公開用](https://github.com/timbers-jp/handbook)
-* [Github 社内用](https://github.com/timbers-jp/internal)
-* [Github Project](https://github.com/orgs/timbers-jp/projects/1)
+* [公式HP(ハンドブック閲覧)](https://handbook.timbers.jp)
+* [Github 公開用(ハンドブック編集, 公開issue管理)](https://github.com/timbers-jp/handbook)
+* [Github 社内用(非公開issue管理)](https://github.com/timbers-jp/internal)
+* [Github Project(社内タスク管理)](https://github.com/orgs/timbers-jp/projects/1)
 
 
 
