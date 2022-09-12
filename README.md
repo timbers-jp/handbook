@@ -35,16 +35,16 @@
 | 主要取引銀行 | 三菱UFJ銀行本郷支店 |
 
 
-## ハンドブック
+## ルートブック
 
 ティンバーズでは、「経営をオープンソースにする」という文化にもとづき、
 
-公式ハンドブックからすべての情報源にアクセスできます。（[Wikipedia｜信頼できる唯一の情報源](https://ja.wikipedia.org/wiki/%E4%BF%A1%E9%A0%BC%E3%81%A7%E3%81%8D%E3%82%8B%E5%94%AF%E4%B8%80%E3%81%AE%E6%83%85%E5%A0%B1%E6%BA%90)）
+公式ルートブックからすべての情報源にアクセスできます。（[Wikipedia｜信頼できる唯一の情報源](https://ja.wikipedia.org/wiki/%E4%BF%A1%E9%A0%BC%E3%81%A7%E3%81%8D%E3%82%8B%E5%94%AF%E4%B8%80%E3%81%AE%E6%83%85%E5%A0%B1%E6%BA%90)）
 
 公開すべきでない情報については、[非公開のGoogle Drive](https://drive.google.com/drive/folders/1MSYuoS8Jy3DKdBunYxgdxuuv2d7kHN_L?usp=sharing)等へのリンクが公開されています。
 
 ## 目次
-* [ハンドブック](/01-handbook)
+* [ルートブック](/01-rootbook)
 * [カルチャー](/02-culture)
 * [コミュニケーション](/03-communication)
 * [バックオフィス](/90-backoffice)
@@ -53,8 +53,8 @@
 ティンバーズで働かれる方は、ブックマークしておくことをおすすめしておきます。
 
 * Google Meet (https://meet.timbers.jp)
-* [公式HP(ハンドブック閲覧)](https://handbook.timbers.jp)
-* [Github 公開用(ハンドブック編集, 公開issue管理)](https://github.com/timbers-jp/handbook)
+* [公式HP(ルートブック閲覧)](https://rootbook.timbers.jp)
+* [Github 公開用(ルートブック編集, 公開issue管理)](https://github.com/timbers-jp/rootbook)
 * [Github 社内用(非公開issue管理)](https://github.com/timbers-jp/internal)
 * [Github Project(社内タスク管理)](https://github.com/orgs/timbers-jp/projects/1)
 * [Google Drive](https://drive.google.com/drive/folders/1MSYuoS8Jy3DKdBunYxgdxuuv2d7kHN_L?usp=sharing)
