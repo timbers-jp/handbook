@@ -52,7 +52,7 @@
 ## よく使うリンク
 ティンバーズで働かれる方は、ブックマークしておくことをおすすめしておきます。
 
-* Google Meet (https://meet.timbers.jp)
+* Google Meet ([https://meet.timbers.jp](https://meet.timbers.jp))
 * [公式HP(ルートブック閲覧)](https://rootbook.timbers.jp)
 * [Github 公開用(ルートブック編集, 公開issue管理)](https://github.com/timbers-jp/rootbook)
 * [Github 社内用(非公開issue管理)](https://github.com/timbers-jp/internal)
