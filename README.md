@@ -36,6 +36,8 @@ Google Workspaceを活用した低コストのデジタル推進
 ### Solution γ
 新領域でのAIの研究開発
 
+詳しい事例やデモについては、[こちら](https://book.timbers.jp)からお問い合わせください。
+
 
 ## 企業情報
 
