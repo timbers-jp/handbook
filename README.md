@@ -27,13 +27,13 @@
 
 企業向けのデジタル推進の支援を行っております。
 
-Solution α
+### Solution α
 ローコードツールRetoolを活用したデジタル推進
 
-Solution β
+### Solution β
 新領域でのAIの研究開発
 
-Solution γ
+### Solution γ
 Google Workspaceを活用した低コストのデジタル推進
 
 [提供事例]()
