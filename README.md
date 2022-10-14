@@ -36,7 +36,7 @@ Google Workspaceを活用した低コストのデジタル推進
 ### Solution γ
 新領域でのAIの研究開発
 
-詳しい事例やデモについては、[メール](mailto:hi@timbers.jp)か[オンラインミーティング](https://book.timbers.jp) をご予約ください。
+詳しい事例やデモについては、メール[hi@timbers.jp](mailto:hi@timbers.jp)かオンラインミーティングを[ご予約](https://book.timbers.jp) ください。
 
 
 ## 企業情報
