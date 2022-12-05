@@ -75,6 +75,7 @@ Google Workspaceを活用した低コストのデジタル推進
 * [Github 社内用(非公開issue管理)](https://github.com/timbers-jp/internal)
 * [Github Project(社内タスク管理)](https://github.com/orgs/timbers-jp/projects/1)
 * [Google Drive](https://drive.google.com/drive/folders/1MSYuoS8Jy3DKdBunYxgdxuuv2d7kHN_L?usp=sharing)
+* [Make job fun mtg](https://docs.google.com/spreadsheets/d/1zMsNbyRyUrfJv00nTOW46oJkoCGU2zbh1fVYQoMjpUA/edit#gid=821787516)
 
 
 
