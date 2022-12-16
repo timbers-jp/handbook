@@ -17,6 +17,8 @@
 ## ニュース
 |タイトル |日付　|
 |----------|----------|
+|[AI技術者コミュニティAcademixが、介護現場の人材不足問題に挑戦する、企業共創プロジェクトを立ち上げ](https://prtimes.jp/main/action.php?run=html&page=releasedetail&company_id=91404&release_id=6&owner=1)|2022/12/05|
+|[一度断念したシステム開発をローコードで再挑戦、コスト1/10で実証実験へ](https://prtimes.jp/main/action.php?run=html&page=releasedetail&company_id=91404&release_id=5&owner=1)|2022/10/21|
 | [学生コミュニティAcademiXが、AI開発コンテストで銀メダルを受賞！](https://prtimes.jp/main/html/rd/p/000000003.000091404.html) |	2022/09/20 |
 | [弊社代表Note: 【8/6説明会】AcademiXをまだ知らない君へ](https://note.com/timbers/n/n8c3c235df9a8) |	2022/08/01 |
 |コイシカワ様にDX推進サービスを開始いたしました。| 2022/07/31 |
